@@ -1,0 +1,31 @@
+{
+  "name": "@taskany/colors",
+  "version": "1.0.0",
+  "description": "Taskany themes",
+  "main": "themes/index.js",
+  "types": "themes/index.d.ts",
+  "module": "themes/esm/index.js",
+  "files": [
+    "themes"
+  ],
+  "scripts": {
+    "generate": "node ./generate.js",
+    "build": "npm run clean && npm run generate && npm run compile",
+    "compile": "npm run compile:cjs && npm run compile:esm",
+    "compile:cjs": "tsc",
+    "compile:esm": "tsc -p ./tsconfig.esm.json",
+    "clean": "rm -rf ./themes ./generated",
+    "prepare": "npm run build"
+  },
+  "dependencies": {
+    "styled-components": "5.3.6"
+  },
+  "devDependencies": {
+    "@types/styled-components": "5.1.26",
+    "change-case": "4.1.2",
+    "color-layer": "1.0.3",
+    "prettier": "2.8.4",
+    "typescript": "4.9.3"
+  },
+  "license": "ISC"
+}
