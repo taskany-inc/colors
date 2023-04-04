@@ -23,18 +23,18 @@ const sharedConstants = {
 
 // 0 - light,
 // 1 - dark
-const themes = [
-    {
+const themes = {
+    dark: {
         ...sharedConstants,
         textColor: 'hsl(0, 0%, 15%)',
         backgroundColor: '#f6f9fc',
     },
-    {
+    light: {
         ...sharedConstants,
         textColor: 'hsl(0, 0%, 90%)',
         backgroundColor: '#121212',
     },
-];
+};
 
 // from 0 to 10
 const levelsNumber = [...Array(11).keys()];
@@ -49,9 +49,9 @@ const colorsOptions = [
 colorsOptions.forEach(([name, [h, s]]) => {
     levelsNumber.forEach((i) => {
         const [light, dark] = colorLayer.default(h, i, s);
-        themes[0][`${name}${i}`] = light;
-        themes[1][`${name}${i}`] = dark;
+        themes.light[`${name}${i}`] = light;
+        themes.dark[`${name}${i}`] = dark;
     });
 });
 
-module.exports = { light: themes[0], dark: themes[1] };
+module.exports = themes;
