@@ -1,14 +1,14 @@
 # Taskany Colors
 
-Пакет с темами Taskany
+This is a package with colors and themes, which we use in our projects.
 
-## Установка
+## Install
 
 ```shell
 $ npm i @taskany/colors
 ```
 
-## Использование
+## Usage
 
 ```jsx
 import { gray2, DarkTheme } from '@taskany/colors';
@@ -17,7 +17,7 @@ const GrayText = styled.div`
     color: ${gray2};
 `;
 
-// подключение нужной темы, как глобальных стилей styled-components
+// Use theme like styled-components global style
 
 const App = () => (
     <>
