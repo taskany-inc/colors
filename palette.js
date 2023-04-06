@@ -24,12 +24,12 @@ const sharedConstants = {
 // 0 - light,
 // 1 - dark
 const themes = {
-    dark: {
+    light: {
         ...sharedConstants,
         textColor: 'hsl(0, 0%, 15%)',
         backgroundColor: '#f6f9fc',
     },
-    light: {
+    dark: {
         ...sharedConstants,
         textColor: 'hsl(0, 0%, 90%)',
         backgroundColor: '#121212',
