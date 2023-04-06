@@ -15,7 +15,7 @@
     "compile:cjs": "tsc",
     "compile:esm": "tsc -p ./tsconfig.esm.json",
     "clean": "rm -rf ./themes ./generated",
-    "prepublish": "npm run build",
+    "prepublishOnly": "npm run build",
     "prepare": "husky install",
     "lint": "eslint --ext .js,.ts ."
   },
