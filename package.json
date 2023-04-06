@@ -1,6 +1,6 @@
 {
   "name": "@taskany/colors",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Taskany themes",
   "main": "themes/index.js",
   "types": "themes/index.d.ts",
@@ -42,5 +42,5 @@
     "prettier": "2.8.4",
     "typescript": "4.9.3"
   },
-  "license": "ISC"
+  "license": "MIT"
 }
