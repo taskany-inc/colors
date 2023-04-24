@@ -28,7 +28,7 @@
     "@typescript-eslint/parser": "5.56.0",
     "change-case": "4.1.2",
     "color-layer": "1.0.3",
-    "eslint": "8.33.0",
+    "eslint": "8.39.0",
     "eslint-config-airbnb": "19.0.4",
     "eslint-config-prettier": "8.8.0",
     "eslint-plugin-import": "2.26.0",
