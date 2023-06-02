@@ -1,11 +1,6 @@
 module.exports = {
     ignorePatterns: ['**/generated/**', '**/theme/**'],
-    extends: [
-        'airbnb-base',
-        'plugin:@typescript-eslint/eslint-recommended',
-        'plugin:@typescript-eslint/recommended',
-        'plugin:storybook/recommended',
-    ],
+    extends: ['airbnb-base', 'plugin:@typescript-eslint/eslint-recommended', 'plugin:@typescript-eslint/recommended'],
     parser: '@typescript-eslint/parser',
     plugins: ['import', 'prettier'],
     rules: {
