@@ -20,10 +20,9 @@
     "lint": "eslint --ext .js,.ts ."
   },
   "peerDependencies": {
-    "styled-components": "^5.3.6"
+    "styled-components": "^5.3.11"
   },
   "devDependencies": {
-    "@types/styled-components": "5.1.26",
     "@typescript-eslint/eslint-plugin": "5.59.6",
     "@typescript-eslint/parser": "5.59.8",
     "change-case": "4.1.2",
@@ -40,7 +39,6 @@
     "husky": "8.0.3",
     "lint-staged": "13.2.2",
     "prettier": "2.8.8",
-    "styled-components": "5.3.11",
     "typescript": "5.0.4"
   },
   "license": "MIT"
