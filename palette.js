@@ -3,8 +3,7 @@
 const colorLayer = require('color-layer');
 
 const sharedConstants = {
-    fontDisplay:
-        '-apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", "Fira Sans", Roboto, Ubuntu, "Droid Sans", "Arial", sans-serif',
+    fontDisplay: '-apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", Ubuntu, "Arial", sans-serif',
     gapXs: '0.25rem',
     gapS: '0.5rem',
     gapSm: '0.75rem',
