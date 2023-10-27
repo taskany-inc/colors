@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "generate": "node ./generate.js",
-    "build": "npm run clean && npm run generate && npm run compile",
+    "build": "npm run clean && npm run generate && npm run compile && cp generated/*.css themes/",
     "compile": "npm run compile:cjs && npm run compile:esm",
     "compile:cjs": "tsc",
     "compile:esm": "tsc -p ./tsconfig.esm.json",
