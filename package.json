@@ -5,8 +5,35 @@
   "main": "themes/index.js",
   "types": "themes/index.d.ts",
   "module": "themes/esm/index.js",
+  "exports": {
+    ".": {
+      "import": "./themes/esm/index.js",
+      "require": "./themes/index.js"
+    },
+    "./themes/dark": {
+      "import": "./themes/esm/dark.js",
+      "require": "./themes/dark.js"
+    },
+    "./themes/light": {
+      "import": "./themes/esm/light.js",
+      "require": "./themes/light.js"
+    },
+    "./harmony/dark.css": "./harmony/dark.css",
+    "./harmony/light.css": "./harmony/light.css"
+  },
+  "typesVersions": {
+    "*": {
+      "themes/dark": [
+        "./themes/dark.d.ts"
+      ],
+      "themes/light": [
+        "./themes/light.d.ts"
+      ]
+    }
+  },
   "files": [
-    "themes"
+    "themes",
+    "harmony"
   ],
   "scripts": {
     "generate": "node ./generate.js",
