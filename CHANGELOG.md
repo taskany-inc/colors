@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit guidelines.
 
+## [1.3.0](https://github.com/taskany-inc/colors/compare/v1.2.1...v1.3.0) (2023-11-27)
+
+
+### Features
+
+* harmony palette ([571f595](https://github.com/taskany-inc/colors/commit/571f595b6e37bf6c2d722c0e484e40c60729359e))
+
+
+### Bug Fixes
+
+* ci auth problem ([42cb704](https://github.com/taskany-inc/colors/commit/42cb7043d97052f034b7a0fcf4fcf3ec5a940884))
+
 ## 1.1.0 (2023-06-02)
 
 
