@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit guidelines.
 
+## [1.3.1](https://github.com/taskany-inc/colors/compare/v1.3.0...v1.3.1) (2023-11-29)
+
+
+### Bug Fixes
+
+* specificity weight of theme ([464923e](https://github.com/taskany-inc/colors/commit/464923ec039f2c780255b2074c0de07d211c3861))
+
 ## [1.3.0](https://github.com/taskany-inc/colors/compare/v1.2.1...v1.3.0) (2023-11-27)
 
 
