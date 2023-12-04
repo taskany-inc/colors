@@ -92,6 +92,11 @@ html[data-theme="light"] {
     --button-warn-focus: var(--warn-300);
     --button-warn-hover: hsl(33 79% 57%);
     --button-warn-text: var(--warn-950);
+    --button-checked: var(--blue-800);
+    --button-checked-active: hsl(208 91% 86%);
+    --button-checked-focus: var(--blue-400);
+    --button-checked-hover: hsl(208 91% 88%);
+    --button-checked-text: var(--blue-50);
     --status-at-risk: hsl(33 68% 55%);
     --status-blocked: hsl(46 61% 54%);
     --status-cancelled: hsl(284 33% 63%);
@@ -196,6 +201,11 @@ html[data-theme="light"] {
         --button-warn-focus: var(--warn-300);
         --button-warn-hover: hsl(33 79% 57%);
         --button-warn-text: var(--warn-950);
+        --button-checked: var(--blue-800);
+        --button-checked-active: hsl(208 91% 86%);
+        --button-checked-focus: var(--blue-400);
+        --button-checked-hover: hsl(208 91% 88%);
+        --button-checked-text: var(--blue-50);
         --status-at-risk: hsl(33 68% 55%);
         --status-blocked: hsl(46 61% 54%);
         --status-cancelled: hsl(284 33% 63%);

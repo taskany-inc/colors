@@ -108,6 +108,11 @@
     --button-warn-focus: var(--warn-300);
     --button-warn-hover: hsl(33 82% 57%);
     --button-warn-text: var(--warn-950);
+    --button-checked: var(--blue-800);
+    --button-checked-active: hsl(207 57% 28%);
+    --button-checked-focus: var(--blue-400);
+    --button-checked-hover: hsl(207 68% 29%);
+    --button-checked-text: var(--blue-50);
     --status-at-risk: hsl(33 68% 55%);
     --status-blocked: hsl(46 67% 58%);
     --status-cancelled: hsl(284 57% 78%);
@@ -211,6 +216,11 @@ html[data-theme="dark"] {
     --button-warn-focus: var(--warn-300);
     --button-warn-hover: hsl(33 82% 57%);
     --button-warn-text: var(--warn-950);
+    --button-checked: var(--blue-800);
+    --button-checked-active: hsl(207 57% 28%);
+    --button-checked-focus: var(--blue-400);
+    --button-checked-hover: hsl(207 68% 29%);
+    --button-checked-text: var(--blue-50);
     --status-at-risk: hsl(33 68% 55%);
     --status-blocked: hsl(46 67% 58%);
     --status-cancelled: hsl(284 57% 78%);
