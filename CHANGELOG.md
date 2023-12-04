@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit guidelines.
 
+## [1.4.0](https://github.com/taskany-inc/colors/compare/v1.3.1...v1.4.0) (2023-12-04)
+
+
+### Features
+
+* add variables for checked button ([796cc97](https://github.com/taskany-inc/colors/commit/796cc979574ccff894085e6ea8c5c9fb1a0750d4))
+
 ## [1.3.1](https://github.com/taskany-inc/colors/compare/v1.3.0...v1.3.1) (2023-11-29)
 
 
