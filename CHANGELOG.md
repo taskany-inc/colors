@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit guidelines.
 
+## [1.5.0](https://github.com/taskany-inc/colors/compare/v1.4.0...v1.5.0) (2023-12-13)
+
+
+### Features
+
+* add font-size & line-height variables ([16803c3](https://github.com/taskany-inc/colors/commit/16803c38e0425bef7a93734c338b2d4141728c71))
+
 ## [1.4.0](https://github.com/taskany-inc/colors/compare/v1.3.1...v1.4.0) (2023-12-04)
 
 
