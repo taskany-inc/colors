@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit guidelines.
 
+## [1.6.0](https://github.com/taskany-inc/colors/compare/v1.5.0...v1.6.0) (2023-12-25)
+
+
+### Features
+
+* **harmony:** add colors for checkboxes & radios ([19e4a1d](https://github.com/taskany-inc/colors/commit/19e4a1d0a704cf065b529a64474df8af49eb2c9b))
+
 ## [1.5.0](https://github.com/taskany-inc/colors/compare/v1.4.0...v1.5.0) (2023-12-13)
 
 
