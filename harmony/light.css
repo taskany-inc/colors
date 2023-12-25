@@ -104,6 +104,15 @@ html[data-theme="light"] {
     --status-failed: var(--danger-400);
     --status-finished: var(--primary-400);
     --status-in-progress: var(--blue-400);
+    --check-default: var(--gray-600);
+    --check-default-hover: var(--gray-500);
+    --check-default-disabled: var(--gray-800);
+    --check-checked: var(--blue-600);
+    --check-checked-hover: var(--blue-500);
+    --check-checked-disabled: var(--gray-800);
+    --check-outline: var(--gray-500);
+    --check-mark: var(--base-white);
+    --check-mark-disabled: var(--text-ghost);
 }
 
 @media (prefers-color-scheme: light) {
@@ -213,5 +222,14 @@ html[data-theme="light"] {
         --status-failed: var(--danger-400);
         --status-finished: var(--primary-400);
         --status-in-progress: var(--blue-400);
+        --check-default: var(--gray-600);
+        --check-default-hover: var(--gray-500);
+        --check-default-disabled: var(--gray-800);
+        --check-checked: var(--blue-600);
+        --check-checked-hover: var(--blue-500);
+        --check-checked-disabled: var(--gray-800);
+        --check-outline: var(--gray-500);
+        --check-mark: var(--base-white);
+        --check-mark-disabled: var(--text-ghost);
     }
 }

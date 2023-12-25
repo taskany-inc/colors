@@ -136,6 +136,15 @@
     --status-failed: var(--danger-500);
     --status-finished: var(--primary-500);
     --status-in-progress: hsl(207 86% 65%);
+    --check-default: var(--gray-600);
+    --check-default-hover: var(--gray-500);
+    --check-default-disabled: var(--gray-800);
+    --check-checked: var(--blue-600);
+    --check-checked-hover: var(--blue-500);
+    --check-checked-disabled: var(--gray-800);
+    --check-outline: var(--gray-500);
+    --check-mark: var(--base-white);
+    --check-mark-disabled: var(--text-ghost);
 }
 
 html[data-theme="dark"] {
@@ -244,4 +253,14 @@ html[data-theme="dark"] {
     --status-failed: var(--danger-500);
     --status-finished: var(--primary-500);
     --status-in-progress: hsl(207 86% 65%);
+    --check-default: var(--gray-600);
+    --check-default-hover: var(--gray-500);
+    --check-default-disabled: var(--gray-800);
+    --check-checked: var(--blue-600);
+    --check-checked-hover: var(--blue-500);
+    --check-checked-disabled: var(--gray-800);
+    --check-outline: var(--gray-500);
+    --check-mark: var(--base-white);
+    --check-mark-disabled: var(--text-ghost);
+
 }
