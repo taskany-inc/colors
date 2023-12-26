@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit guidelines.
 
+## [1.6.1](https://github.com/taskany-inc/colors/compare/v1.6.0...v1.6.1) (2023-12-26)
+
+
+### Bug Fixes
+
+* **light theme:** checked color ([a26d43a](https://github.com/taskany-inc/colors/commit/a26d43a0ba184ef3c5c4d1fb6a83a6232c9a80e7))
+
 ## [1.6.0](https://github.com/taskany-inc/colors/compare/v1.5.0...v1.6.0) (2023-12-25)
 
 
