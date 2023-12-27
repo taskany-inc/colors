@@ -113,6 +113,12 @@ html[data-theme="light"] {
     --check-outline: var(--gray-500);
     --check-mark: var(--base-white);
     --check-mark-disabled: var(--text-ghost);
+    --switch-backgound: var(--background);
+    --switch-text-default: var(--text-secondary);
+    --switch-text-hovered: var(--text-primary);
+    --switch-text-active: var(--text-primary);
+    --switch-background-active: hsl(240, 10%, 90%);
+
 }
 
 @media (prefers-color-scheme: light) {
@@ -231,5 +237,10 @@ html[data-theme="light"] {
         --check-outline: var(--gray-500);
         --check-mark: var(--base-white);
         --check-mark-disabled: var(--text-ghost);
+        --switch-backgound: var(--background);
+        --switch-text-default: var(--text-secondary);
+        --switch-text-hovered: var(--text-primary);
+        --switch-text-active: var(--text-primary);
+        --switch-background-active: hsl(240, 10%, 90%);
     }
 }
