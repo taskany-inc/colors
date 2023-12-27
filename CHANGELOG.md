@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit guidelines.
 
+## [1.7.0](https://github.com/taskany-inc/colors/compare/v1.6.2...v1.7.0) (2023-12-27)
+
+
+### Features
+
+* added new variables ([0a78d1a](https://github.com/taskany-inc/colors/commit/0a78d1a6c28a8e47816e0ea9f7afcbb026612d91))
+
 ## [1.6.2](https://github.com/taskany-inc/colors/compare/v1.6.1...v1.6.2) (2023-12-27)
 
 
