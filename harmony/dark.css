@@ -145,6 +145,11 @@
     --check-outline: var(--gray-500);
     --check-mark: var(--base-white);
     --check-mark-disabled: var(--text-ghost);
+    --switch-backgound: var(--background);
+    --switch-text-default: var(--text-secondary);
+    --switch-text-hovered: var(--text-primary);
+    --switch-text-active: var(--text-primary);
+    --switch-background-active: hsla(240, 8%, 20%);
 }
 
 html[data-theme="dark"] {
@@ -262,5 +267,10 @@ html[data-theme="dark"] {
     --check-outline: var(--gray-500);
     --check-mark: var(--base-white);
     --check-mark-disabled: var(--text-ghost);
+    --switch-backgound: var(--background);
+    --switch-text-default: var(--text-secondary);
+    --switch-text-hovered: var(--text-primary);
+    --switch-text-active: var(--text-primary);
+    --switch-background-active: hsla(240, 8%, 20%);
 
 }
