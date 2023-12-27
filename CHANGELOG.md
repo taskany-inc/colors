@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit guidelines.
 
+## [1.6.2](https://github.com/taskany-inc/colors/compare/v1.6.1...v1.6.2) (2023-12-27)
+
+
+### Bug Fixes
+
+* **light theme:** checked color in the second time ([af227d9](https://github.com/taskany-inc/colors/commit/af227d98362a66f405150b667a269868715377fe))
+* **Switch:** add themed variables ([c321e60](https://github.com/taskany-inc/colors/commit/c321e6088d55a6ada200f537d99418741dbd5557))
+
 ## [1.6.1](https://github.com/taskany-inc/colors/compare/v1.6.0...v1.6.1) (2023-12-26)
 
 
