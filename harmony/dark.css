@@ -30,6 +30,17 @@
     --line-height-xl: 1.15;
     --line-height-xxl: 1;
 
+    --gap-xs: 0.25rem;
+    --gap-s: 0.5rem;
+    --gap-sm: 0.75rem;
+    --gap-m: 1rem;
+    --gap-l: 2rem;
+    --gap-xl: 4rem;
+    --radius-s: 4px;
+    --radius-m: 6px;
+    --radius-l: 12px;
+    --radius-xl: 20px;
+
     /* DARK THEME */
     --blue-50: hsl(204 71% 99%);
     --blue-100: hsl(208 81% 96%);
