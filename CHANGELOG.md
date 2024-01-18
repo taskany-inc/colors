@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit guidelines.
 
+## [1.8.0](https://github.com/taskany-inc/colors/compare/v1.7.0...v1.8.0) (2024-01-18)
+
+
+### Features
+
+* **harmony:** remove copypasta in themed files ([e4b9660](https://github.com/taskany-inc/colors/commit/e4b9660441a7ffd9672ae7eb6f458fd71e3e9a67))
+
 ## [1.7.0](https://github.com/taskany-inc/colors/compare/v1.6.2...v1.7.0) (2023-12-27)
 
 
