@@ -30,6 +30,17 @@
     --line-height-xl: 1.15;
     --line-height-xxl: 1;
 
+    --gap-xs: 0.25rem;
+    --gap-s: 0.5rem;
+    --gap-sm: 0.75rem;
+    --gap-m: 1rem;
+    --gap-l: 2rem;
+    --gap-xl: 4rem;
+    --radius-s: 4px;
+    --radius-m: 6px;
+    --radius-l: 12px;
+    --radius-xl: 20px;
+
     --blue-50: hsl(207 74% 8%);
     --blue-100: hsl(207 60% 18%);
     --blue-200: hsl(207 55% 29%);
@@ -97,6 +108,8 @@
     --layer: var(--base-white);
     --layer-above: var(--base-light-3);
     --layer-hover: var(--base-white);
+    --layer-border: var(--base-light-3);
+    --layer-border-hover: var(--base-light-4);
     --text-disabled: hsl(240 1% 79%);
     --text-ghost: hsl(240 3% 71%);
     --text-primary: hsl(260 3% 23%);
