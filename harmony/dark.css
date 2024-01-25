@@ -41,7 +41,6 @@
     --radius-l: 12px;
     --radius-xl: 20px;
 
-    /* DARK THEME */
     --blue-50: hsl(204 71% 99%);
     --blue-100: hsl(208 81% 96%);
     --blue-200: hsl(208 84% 90%);
@@ -109,6 +108,8 @@
     --layer: var(--base-dark-3);
     --layer-above: var(--base-dark-5);
     --layer-hover: var(--base-dark-4);
+    --layer-border: var(--base-dark-4);
+    --layer-border-hover: var(--base-dark-6);
     --text-disabled: hsl(240 4% 25%);
     --text-ghost: hsl(240 3% 42%);
     --text-primary: hsl(240 2% 88%);
@@ -160,5 +161,5 @@
     --switch-text-default: var(--text-secondary);
     --switch-text-hovered: var(--text-primary);
     --switch-text-active: var(--text-primary);
-    --switch-background-active: hsla(240, 8%, 20%);
+    --switch-background-active: hsl(240 8% 20%);
 }
