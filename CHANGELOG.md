@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit guidelines.
 
+## [1.9.0](https://github.com/taskany-inc/colors/compare/v1.8.0...v1.9.0) (2024-02-01)
+
+
+### Features
+
+* add workflow canary ([8bb4a73](https://github.com/taskany-inc/colors/commit/8bb4a7346e33e0a28c32bd5874396bb025946c51))
+* **Harmony:** add new variables ([e03b82b](https://github.com/taskany-inc/colors/commit/e03b82bf3964454bc1579c1ee08496d80674b7c4))
+
 ## [1.8.0](https://github.com/taskany-inc/colors/compare/v1.7.0...v1.8.0) (2024-01-18)
 
 
