@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit guidelines.
 
+## [1.10.0](https://github.com/taskany-inc/colors/compare/v1.9.0...v1.10.0) (2024-02-07)
+
+
+### Features
+
+* **Harmony:** add new input vars ([9985188](https://github.com/taskany-inc/colors/commit/998518892bbe207dc4b8d75aaeb0264e3d4023fb))
+
 ## [1.9.0](https://github.com/taskany-inc/colors/compare/v1.8.0...v1.9.0) (2024-02-01)
 
 
