@@ -2,22 +2,7 @@
   "name": "@taskany/colors",
   "version": "1.9.0",
   "description": "Taskany themes",
-  "main": "themes/index.js",
-  "types": "themes/index.d.ts",
-  "module": "themes/esm/index.js",
   "exports": {
-    ".": {
-      "import": "./themes/esm/index.js",
-      "require": "./themes/index.js"
-    },
-    "./themes/dark": {
-      "import": "./themes/esm/dark.js",
-      "require": "./themes/dark.js"
-    },
-    "./themes/light": {
-      "import": "./themes/esm/light.js",
-      "require": "./themes/light.js"
-    },
     "./harmony/dark.css": "./harmony/dark.css",
     "./harmony/light.css": "./harmony/light.css"
   },
@@ -32,31 +17,19 @@
     }
   },
   "files": [
-    "themes",
     "harmony"
   ],
   "scripts": {
-    "generate": "node ./generate.js",
-    "build": "npm run clean && npm run generate && npm run compile && cp generated/*.css themes/",
-    "compile": "npm run compile:cjs && npm run compile:esm",
-    "compile:cjs": "tsc",
-    "compile:esm": "tsc -p ./tsconfig.esm.json",
-    "clean": "rm -rf ./themes ./generated",
+    "build": "",
     "prepublishOnly": "npm run build",
     "prepare": "husky install",
     "lint": "eslint --ext .js,.ts ."
   },
-  "peerDependencies": {
-    "styled-components": "^5.3.11"
-  },
   "devDependencies": {
     "@commitlint/cli": "18.4.3",
     "@commitlint/config-conventional": "18.6.0",
-    "@types/styled-components": "5.1.26",
     "@typescript-eslint/eslint-plugin": "6.15.0",
     "@typescript-eslint/parser": "6.15.0",
-    "change-case": "5.4.2",
-    "color-layer": "1.0.3",
     "eslint": "8.56.0",
     "eslint-config-airbnb": "19.0.4",
     "eslint-config-prettier": "9.1.0",
