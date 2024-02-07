@@ -10,19 +10,12 @@ $ npm i @taskany/colors
 
 ## Usage
 
-```jsx
-import { gray2, DarkTheme } from '@taskany/colors';
+```tsx
+import '@taskany/colors/harmony/dark.css';
+```
 
-const GrayText = styled.div`
-    color: ${gray2};
-`;
+or
 
-// Use theme like styled-components global style
-
-const App = () => (
-    <>
-        <DarkTheme />
-        <GrayText>Taskany Gray Text</GrayText>
-    </>
-);
+```tsx
+import '@taskany/colors/harmony/light.css';
 ```
