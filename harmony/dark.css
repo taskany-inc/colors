@@ -103,8 +103,11 @@
     --input-border-disabled: var(--gray-900);
     --input-border-focused: var(--gray-700);
     --input-disabled: var(--base-dark-3);
+    --input-disabled-borderless: hsl(240 7% 17%);
     --input-fill: var(--gray-950);
+    --input-fill-borderless: hsl(240 10% 6%);
     --input-fill-focused: var(--base-dark-2);
+    --input-fill-focused-borderless: hsl(240 10% 4%);
     --layer: var(--base-dark-3);
     --layer-above: var(--base-dark-5);
     --layer-hover: var(--base-dark-4);
