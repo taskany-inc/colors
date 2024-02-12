@@ -41,6 +41,9 @@
     --radius-l: 12px;
     --radius-xl: 20px;
 
+    --transition-time: 300ms;
+    --transition-func: ease-in-out;
+
     --blue-50: hsl(204 71% 99%);
     --blue-100: hsl(208 81% 96%);
     --blue-200: hsl(208 84% 90%);
