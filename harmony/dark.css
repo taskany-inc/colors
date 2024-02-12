@@ -160,6 +160,9 @@
     --check-outline: var(--gray-500);
     --check-mark: var(--base-white);
     --check-mark-disabled: var(--text-ghost);
+    --check-rounded-checked: var(--primary-500);
+    --check-rounded-checked-hover: var(--primary-600);
+    --check-rounded-mark: var(--primary-950);
     --switch-backgound: var(--background);
     --switch-text-default: var(--text-secondary);
     --switch-text-hovered: var(--text-primary);
