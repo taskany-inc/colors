@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit guidelines.
 
+## [1.11.0](https://github.com/taskany-inc/colors/compare/v1.10.0...v1.11.0) (2024-02-13)
+
+
+### Features
+
+* **harmony:** add colors for rounded checkboxes ([b46ed13](https://github.com/taskany-inc/colors/commit/b46ed138bd8503b10dc8adf6caa794d6574f09c8))
+* **harmony:** add transition properties variables ([550374d](https://github.com/taskany-inc/colors/commit/550374d2bc04bac2cb358e398f2eda378d67c8f7))
+
 ## [1.10.0](https://github.com/taskany-inc/colors/compare/v1.9.0...v1.10.0) (2024-02-07)
 
 
