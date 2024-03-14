@@ -171,4 +171,5 @@
     --switch-text-hovered: var(--text-primary);
     --switch-text-active: var(--text-primary);
     --switch-background-active: hsl(240 8% 20%);
+    --comment-card-border: transparent;
 }
