@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit guidelines.
 
+## [1.12.0](https://github.com/taskany-inc/colors/compare/v1.11.0...v1.12.0) (2024-03-14)
+
+
+### Features
+
+* comment border var ([56074d6](https://github.com/taskany-inc/colors/commit/56074d66e11d4b1fadbfec9f51e3ebcd0ff447a4))
+
 ## [1.11.0](https://github.com/taskany-inc/colors/compare/v1.10.0...v1.11.0) (2024-02-13)
 
 
