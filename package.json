@@ -55,7 +55,7 @@
     "@types/styled-components": "5.1.26",
     "@typescript-eslint/eslint-plugin": "6.15.0",
     "@typescript-eslint/parser": "6.15.0",
-    "change-case": "4.1.2",
+    "change-case": "5.4.3",
     "color-layer": "1.0.3",
     "eslint": "8.56.0",
     "eslint-config-airbnb": "19.0.4",
