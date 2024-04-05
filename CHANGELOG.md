@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit guidelines.
 
+## [1.13.0](https://github.com/taskany-inc/colors/compare/v1.12.1...v1.13.0) (2024-04-05)
+
+
+### Features
+
+* add status background colors ([84dd8bd](https://github.com/taskany-inc/colors/commit/84dd8bd42993bae5703436cab84d965a5f873ddd))
+
 ## [1.12.1](https://github.com/taskany-inc/colors/compare/v1.12.0...v1.12.1) (2024-03-14)
 
 
