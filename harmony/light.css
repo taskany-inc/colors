@@ -154,6 +154,13 @@
     --status-failed: var(--danger-400);
     --status-finished: var(--primary-400);
     --status-in-progress: var(--blue-400);
+    --status-background-at-risk: hsl(30 69% 95%);
+    --status-background-blocked: hsl(44 48% 94%);
+    --status-background-cancelled: hsl(282 56% 96%);
+    --status-background-draft: var(--gray-900);
+    --status-background-failed: var(--danger-900);
+    --status-background-finished: var(--primary-900);
+    --status-background-in-progress: var(--blue-900);
     --check-default: var(--gray-600);
     --check-default-hover: var(--gray-500);
     --check-default-disabled: var(--gray-800);
@@ -171,5 +178,5 @@
     --switch-text-hovered: var(--text-primary);
     --switch-text-active: var(--text-primary);
     --switch-background-active: hsl(240, 10%, 90%);
-    --comment-card-border: var(--layer-above);
+    --card-border: var(--layer-above);
 }
