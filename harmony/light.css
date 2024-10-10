@@ -17,16 +17,22 @@
     --font-size-xxs: 0.5rem;
     --font-size-xs: 0.75rem;
     --font-size-s: 0.875rem;
+    --font-size-sm: 1rem;
     --font-size-m: 1rem;
+    --font-size-ml: 1.25rem;
     --font-size-l: 1.25rem;
+    --font-size-lg: 1.5rem;
     --font-size-xl: 1.75rem;
     --font-size-xxl: 3rem;
 
     --line-height-xxs: 1.5;
     --line-height-xs: 1.5;
     --line-height-s: 1.5;
+    --line-height-sm: 1.25;
     --line-height-m: 1.5;
+    --line-height-ml: 1.2;
     --line-height-l: 1.15;
+    --line-height-lg: 1.167;
     --line-height-xl: 1.15;
     --line-height-xxl: 1;
 
@@ -104,9 +110,11 @@
     --dropdown: var(--base-white);
     --input-border: var(--gray-800);
     --input-border-disabled: var(--gray-700);
-    --input-border-focused: var(--gray-700);
+    --input-border-focused: var(--gray-400);
+    --input-border-hovered: var(--gray-500);
     --input-disabled: var(--base-light-4);
     --input-disabled-borderless: hsl(240 10% 90%);
+    --input-readonly: var(--base-light-2);
     --input-fill: var(--gray-950);
     --input-fill-borderless: hsl(240 10% 96%);
     --input-fill-focused: var(--base-white);
