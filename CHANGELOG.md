@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit guidelines.
 
+## [1.13.1](https://github.com/taskany-inc/colors/compare/v1.13.0...v1.13.1) (2024-10-15)
+
+
+### Bug Fixes
+
+* apply a new input colors and typo sizes ([066eb0e](https://github.com/taskany-inc/colors/commit/066eb0eb291b3d423f5a9b6ecedc9e06adaaf105))
+
 ## [1.13.0](https://github.com/taskany-inc/colors/compare/v1.12.1...v1.13.0) (2024-04-05)
 
 
